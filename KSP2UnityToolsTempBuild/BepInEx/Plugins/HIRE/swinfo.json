@@ -1,11 +1,11 @@
 {
   "spec": "2.0",
   "mod_id": "HIRE",
-  "name": "Sample Mod",
+  "name": "HIRE",
   "author": "Rafael Aeronautics",
-  "description": "Cool stuff",
+  "description": "Heatshield Integrated (Retractable) Engine",
   "source": "",
-  "version": "0.5",
+  "version": "0.6",
   "version_check": "",
   "ksp2_version": {
     "min": "*",
