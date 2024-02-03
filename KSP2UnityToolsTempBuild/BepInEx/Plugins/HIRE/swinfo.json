@@ -1,0 +1,16 @@
+{
+  "spec": "2.0",
+  "mod_id": "HIRE",
+  "name": "Sample Mod",
+  "author": "Rafael Aeronautics",
+  "description": "Cool stuff",
+  "source": "",
+  "version": "0.5",
+  "version_check": "",
+  "ksp2_version": {
+    "min": "*",
+    "max": "*"
+  },
+  "dependencies": [],
+  "conflicts": []
+}
