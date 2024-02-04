@@ -16,7 +16,9 @@ MonoBehaviour:
   - HIRE_125
   - HIRE125
   - HIRE125 1
+  - HIRE125_Plume
   Values:
+  - plugin_template/patches/%NAME%.patch
   - plugin_template/patches/%NAME%.patch
   - plugin_template/patches/%NAME%.patch
   - plugin_template/patches/%NAME%.patch

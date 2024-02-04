@@ -180,6 +180,13 @@
       },
       "hash": "bc61e6a86a7003bbedb8ca4872a5376a7d2534b0"
     },
+    "lfo.editor": {
+      "version": "https://github.com/KSP2Community/LFO.Editor.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "d424e4c2840aeabf106234929bde17aadbe8a9db"
+    },
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,

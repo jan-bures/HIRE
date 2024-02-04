@@ -28,6 +28,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - parts_data
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2c780337ad29e3e4ea89f5ced94533a9
+    m_Address: lfo/HIRE125.json
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - lfo_configs
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 1efe5e2363cd87645aab827ba0c75562, type: 2}
   m_SchemaSet:

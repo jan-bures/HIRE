@@ -16,7 +16,9 @@ MonoBehaviour:
   - HIRE_125
   - HIRE125
   - HIRE125 1
+  - HIRE125_Plume
   Values:
   - HIRE125.json
+  - '%NAME%.json'
   - '%NAME%.json'
   - '%NAME%.json'

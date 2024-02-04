@@ -88,6 +88,7 @@ MonoBehaviour:
     m_LabelNames:
     - default
     - parts_data
+    - lfo_configs
   m_SchemaTemplates: []
   m_GroupTemplateObjects:
   - {fileID: 11400000, guid: d437879ddbc1c4c4fbfa760f57834055, type: 2}
